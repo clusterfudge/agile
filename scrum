@@ -1,0 +1,37 @@
+Initial Discussion
+
+Leading up to Sprint Planning - Continuously
+Stories/bugs/tasks have gone into the backlog and been organized a little bit by the PM/the devs/the lead
+ 
+Backlog grooming/prioritization – not necessarily every sprint, maybe every month (or when queued work gets low)
+The team gets together (with input from the lead who has perspective on broader goals) to
+1)      cut stories that aren’t valid or have been completed
+2)      prioritize the stories/bugs in the backlog
+3)      Planning poker (if desired)
+ 
+Tasking – Prior to planning meeting
+Story owners break stories down into tasks with time estimates
+ 
+Planning Meeting – Prior to every sprint
+Estimates are laid out on the calendar (you can do some crazy advanced things like analyzing dependencies to determine max-flow), and work that doesn’t fit is shifted around until you have a “full” sprint (where the definition of full is a heuristic learned over time).
+ 
+Work – Every sprint, get your shit done!
+Tasks have 5 states
+1)      Scheduled
+2)      Active
+3)      Blocked
+4)      Out for Code Review
+5)      Done
+ 
+Daily standup is the typical Yesterday/Today/I am[not] blocked review. There is a physical task board that displays this for the world to see.
+ 
+Retrospective – not necessarily every sprint, maybe every month
+Team reviews what in the process is working well/what is not working well.
+ 
+ 
+This is the more scrum-like version of things. A more KanBan version of things simply throws out the concept of sprints. Backlog grooming/prioritization is done continuously; when someone has free time, they pull something off the top of the backlog, task it out, and get working. There can still periodic mass groomings (as necessary), and there are still periodic retrospectives. As a matter of principal, things that are in active development aren’t pulled off until completed.
+ 
+I have found that the KanBan-like version is great for starting a new team or project, as the velocity measurements are more observational and not used for planning, just predicting when something will be done. It also converts into the scrum-like version well (as velocity carries over given similar subject matter and team membership).
+ 
+The scrum-like version tends to be better at iterating on a existing project with deadlines, and with an established (and relatively homogenous) team.
+ 
